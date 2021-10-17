@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @flan6 :D
-- 👀 I’m a computer science student and I'm interested in Machine Learning, Computer Vision and Games.  :D
-- 🌱 I’m currently learning: OOP and Threads in Python and applying this concepts using Machine Learning Frameworks and Computer Vision with OpenCV. 
-- 💞️ I’m looking to collaborate on game automation projects, or anything related to computer vision. 
+- 👀 I’m a computer science student and I'm interested in Machine Learning, Computer Vision and Games.  :D 
+- 💞️ I’m looking to collaborate on game automation projects, anything related to computer vision, or web services using Django REST. 
 - 📫 Please contact me via [linkedin](https://www.linkedin.com/in/flander-abreu-43136a173) or [instagram](https://www.instagram.com/flannn6)
 
 <!---
